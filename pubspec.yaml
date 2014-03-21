@@ -1,0 +1,6 @@
+name: testing
+description: A sample command-line application
+dependencies:
+  http_server: any
+  path: any
+  browser: any
